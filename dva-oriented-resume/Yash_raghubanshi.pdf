@@ -1,1 +1,68 @@
+\documentclass[a4paper,10pt]{article}
 
+\usepackage[margin=0.65in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\setlist[itemize]{noitemsep, topsep=2pt}
+\pagenumbering{gobble}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Yash Raghubanshi}}\\
+    \vspace{3pt}
+    +91 73075 97720 $|$
+    \href{mailto:yash.raghubanshi2024@nst.rishihood.edu.in}{yash.raghubanshi2024@nst.rishihood.edu.in}\\
+    \vspace{3pt}
+    \href{https://www.linkedin.com/in/yash-raghubanshi-ba9ba630b/}{LinkedIn} $|$
+    \href{https://github.com/Yash990-bit}{GitHub} $|$
+    \href{https://codeforces.com/profile/yash_900}{Codeforces} $|$
+    \href{https://leetcode.com/u/yash_ragh_08/}{LeetCode} $|$
+    \href{https://yash-portfolio-rose.vercel.app/}{Portfolio}
+\end{center}
+
+\section*{Professional Summary}
+Data Visualization Specialist and Analyst with a strong foundation in transforming complex datasets into interactive visual narratives. Experienced in building Tableau dashboards to explore historical trends, market volatility, and business insights. Skilled in converting raw data into actionable insights through storytelling and analytical thinking.
+
+\section*{Projects}
+
+\textbf{FIFA World Cup Analytics} \hfill 2024\\
+\textit{Tableau, Excel, Data Storytelling} \\
+\begin{itemize}
+    \item Developed a Tableau dashboard analyzing 80+ years of FIFA World Cup data (1930--2014).
+    \item Visualized championship trends, team performance, and host nation statistics.
+    \item Built interactive maps and filters to enhance user exploration and storytelling.
+\end{itemize}
+
+\textbf{Stock Market Dashboard} \hfill 2024\\
+\textit{Tableau, Excel, Financial Analysis} \\
+\begin{itemize}
+    \item Performed historical analysis of major tech companies including Apple, Google, Nvidia, Tesla, and Meta.
+    \item Designed dynamic dashboards for price trends, moving averages, and volume patterns.
+    \item Identified volatility and growth patterns using financial analytics techniques.
+\end{itemize}
+
+\section*{Technical Skills}
+\textbf{Programming:} Python, TypeScript, JavaScript, HTML, CSS, SQL\\
+\textbf{Data and Analytics:} Tableau, Excel, NumPy, Pandas, Data Visualization, Data Storytelling\\
+\textbf{Web and Frameworks:} React, Node.js, Express.js, Tailwind CSS, Prisma ORM, Firebase\\
+\textbf{Databases:} MySQL, MongoDB\\
+\textbf{Developer Tools:} Git, GitHub, Postman, API Testing, Figma\\
+\textbf{AI/ML Tools:} Machine Learning, LangChain, LangGraph, OpenAI API, GenAI
+
+\section*{Education}
+\textbf{B.Tech in Computer Science (AI)} \hfill 2024--2028\\
+Rishihood University -- Newton School of Technology
+
+\section*{Extracurricular Activities}
+\begin{itemize}
+    \item Logistics and Organising Committee Member, DAMRU Fest.
+    \item Organising Committee Member, Go for Gold.
+    \item Represented cricket team at BOSM Sports Fest, BITS Pilani.
+    \item Silver Medalist in Cricket at DTU Sports Fest.
+\end{itemize}
+
+\end{document}
