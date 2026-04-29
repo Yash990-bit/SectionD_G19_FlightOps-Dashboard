@@ -64,12 +64,15 @@ graph LR
 ---
 
 ## 👤 Team Group-19 (Section D)
-| Role | Member |
-| :--- | :--- |
-| **Project Lead** | [Placeholder] |
-| **ETL Engineer** | [Placeholder] |
-| **Data Scientist** | [Placeholder] |
-| **BI Developer** | [Placeholder] |
+
+| Role                 | Member             |
+|----------------------|--------------------|
+| **Project Lead**     | Adamya Tiwari      |
+| **ETL Engineer**     | Agnik Misra        |
+| **Data Scientist**   | Yash Raghubanshi   |
+| **BI Developer**     | Prateek            |
+| **Strategy Lead**    | Rahul              |
+| **Analysis Lead**    | Ram                |
 
 ---
 **Institutional Sponsor:** Newton School of Technology  
